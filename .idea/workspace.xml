@@ -1,7 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60939aec-0a7a-40b5-b5d8-c0d3e4988968" name="Changes" comment="" />
+    <list default="true" id="60939aec-0a7a-40b5-b5d8-c0d3e4988968" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lessons/threading/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademy/lessons/homework/classes/TriangleTask" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademy/lessons/homework/classes/employees.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/animals/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/animals/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/animals/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/animals/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/bank/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/bank/CheckingAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/bank/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/game/Archer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/game/Character.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/game/FastMovement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/game/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/game/RangedAttack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/game/Warrior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/messenger/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/messenger/EmailSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/messenger/MessageSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/messenger/SMSSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/professions/Doctor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/professions/Engineer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/professions/Leadership.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/professions/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/professions/Profession.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/shapes/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/shapes/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/shapes/Shapes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/shapes/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/triangle/EquilateralTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/triangle/IsoscelesTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/triangle/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/triangle/RightTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SmartUpAcademyJava/lessons/homework/triangle/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/BigInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/BigInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/BigIntNoBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/BigIntNoBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/DifficultCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/DifficultCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/Encode_triple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/triplesender/Encode_triple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/triplesender/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/Problems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/Problems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/Sender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/triplesender/Sender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/distance/Chebyshev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/distance/Chebyshev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/distance/Dekart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/distance/Dekart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/distance/Distance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/distance/Distance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/distance/Hamming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/distance/Hamming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/distance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/distance/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/employees/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/employees/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/employees/EmployeeProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/employees/EmployeeProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/employees/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/employees/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/employees/Payable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/employees/Payable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/employees/Salesperson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/employees/Salesperson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/employees/employees.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/employees/employees.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/enumeration/Directions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/enumeration/Directions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/enumeration/EnumDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/enumeration/EnumDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/enumeration/EnumMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/enumeration/EnumMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/homework/mylist/MyList.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +77,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../SmartUpAcademy/Java" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -82,7 +143,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SmartUpAcademy" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -99,7 +162,7 @@
       <recent name="C:\Users\Akmal\IT\Java\SmartUpAcademy\src\lessons\homework\employees" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Game">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Animals Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lessons.homework.animals.Main" />
       <module name="SmartUpAcademyJava" />
@@ -139,12 +202,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.homework.classes.Main" />
-      <module name="SmartUpAcademyJava" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="lessons.Main" />
+      <module name="SmartUpAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.homework.bank.*" />
+          <option name="PATTERN" value="lessons.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,15 +246,15 @@
     <list>
       <item itemvalue="Application.hw Main" />
       <item itemvalue="Application.Animals Main" />
-      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.EmployeeProgram" />
       <item itemvalue="Application.Game" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Game" />
         <item itemvalue="Application.EmployeeProgram" />
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Animals Main" />
         <item itemvalue="Application.hw Main" />
       </list>

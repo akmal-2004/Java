@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbc32a00-4c3e-4fff-ad47-7ae3b26b1b48" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/threading/MatrixMultiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/threading/ProducerConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/threading/TrafficSignals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/backend/lessons/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/backend/lessons/threading/Main$Qizil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/backend/lessons/threading/Main$Sariq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/backend/lessons/threading/Main$Yashil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/backend/lessons/threading/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/threading/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/backend/lessons/threading/MatrixMultiplication$Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/backend/lessons/threading/MatrixMultiplication$Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/backend/lessons/threading/MatrixMultiplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/backend/lessons/threading/MatrixMultiplication.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +36,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/nuu/java" />
   </component>
-  <component name="RunManager" selected="Application.MatrixMultiplication">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lessons.Main" />
       <module name="backend" />
@@ -86,9 +78,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MatrixMultiplication" />
         <item itemvalue="Application.ProducerConsumer" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

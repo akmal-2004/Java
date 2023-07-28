@@ -1,9 +1,7 @@
 package lessons;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
+
 
 public class Main {
     static int getMax(int[] candies) {

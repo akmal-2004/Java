@@ -1,6 +1,5 @@
 package lessons.threading;
 
-import java.security.cert.TrustAnchor;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class ProducerConsumer {

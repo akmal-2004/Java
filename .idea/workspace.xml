@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbc32a00-4c3e-4fff-ad47-7ae3b26b1b48" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lessons/MessengerClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/aquarium/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/aquarium/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/aquarium/Shark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/aquarium/Aquarium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/aquarium/Paper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/aquarium/Rock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/aquarium/Scissors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/backend/lessons/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/backend/lessons/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/backend/lessons/threading/ProducerConsumer$Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/backend/lessons/threading/ProducerConsumer$Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/backend/lessons/threading/ProducerConsumer$Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/backend/lessons/threading/ProducerConsumer$Producer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/backend/lessons/threading/ProducerConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/backend/lessons/threading/ProducerConsumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/backend/lessons/aquarium/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/backend/lessons/aquarium/Fish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/backend/lessons/aquarium/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/backend/lessons/aquarium/Shark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/aquarium/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/aquarium/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/aquarium/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/aquarium/Shark.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +56,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../school" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shopping" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Aquarium">
+    <configuration name="Aquarium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.aquarium.Aquarium" />
+      <module name="backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lessons.aquarium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lessons.aquarium.Main" />
       <module name="backend" />
@@ -109,26 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProducerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.threading.ProducerConsumer" />
-      <module name="backend" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lessons.threading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aquarium" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MessengerClient" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.MatrixMultiplication" />
-        <item itemvalue="Application.ProducerConsumer" />
       </list>
     </recent_temporary>
   </component>

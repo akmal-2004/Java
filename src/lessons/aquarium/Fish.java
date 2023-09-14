@@ -57,7 +57,7 @@ public abstract class Fish implements Runnable {
                 this.y --;
 
             try {
-                Thread.sleep(1000);
+                Thread.sleep(100);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }

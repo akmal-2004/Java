@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbc32a00-4c3e-4fff-ad47-7ae3b26b1b48" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lessons/ticktacktoe_sockets/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/backend/lessons/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/backend/lessons/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/backend/lessons/aquarium/Aquarium.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/backend/lessons/aquarium/Aquarium.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/backend/lessons/aquarium/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/backend/lessons/aquarium/Fish.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/aquarium/Aquarium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/aquarium/Aquarium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/aquarium/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/aquarium/Fish.java" afterDir="false" />
-    </list>
+    <list default="true" id="cbc32a00-4c3e-4fff-ad47-7ae3b26b1b48" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shopping" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../web-store" />
   </component>
   <component name="RunManager" selected="Application.Server">
     <configuration name="Aquarium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
